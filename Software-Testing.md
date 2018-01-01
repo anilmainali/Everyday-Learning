@@ -11,6 +11,12 @@
 
 - http://ilovetesting.com/istqb-exam-questions/
 
+- http://istqbexamcertification.com/istqb-dumps-download-mock-tests-and-sample-question-papers/
+
+- https://www.proprofs.com/quiz-school/story.php?title=istqb-foundation-level-practice-test-1_1
+
+
+
 
 
 
