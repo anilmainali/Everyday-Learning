@@ -15,6 +15,11 @@
 
 - https://www.proprofs.com/quiz-school/story.php?title=istqb-foundation-level-practice-test-1_1
 
+- https://www.quora.com/What-are-good-websites-for-ISTQB-mock-tests
+
+- http://www.gocertify.com/table/quizzes/astqb-and-istqb/
+
+
 
 
 
