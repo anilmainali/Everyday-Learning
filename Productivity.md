@@ -12,6 +12,7 @@ https://www.udemy.com/30-day-challenge-to-a-more-productive-and-much-happier-you
 - Eliminate Your Worry
 - All You Need…
 - Crisis Becomes Opportunity
+- Smile at Conflict
 
 
 
