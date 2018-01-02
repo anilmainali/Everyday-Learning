@@ -3,4 +3,6 @@
 ### 30 Day Challenge to a More Productive and Much Happier You! 
 Taking the course on uDemy by Chris Haroun 
 
+https://www.udemy.com/30-day-challenge-to-a-more-productive-and-much-happier-you/learn/v4/overview
+
 
