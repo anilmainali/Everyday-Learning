@@ -23,6 +23,12 @@
 
 ## Courses I am Taking to prepare for ISTQB
 
+- ISTQB Foundation Level Certification (CTFL BY Maged Koshty from uDemy.
+
+https://www.udemy.com/istqb-certified-tester-foundation-level-ctfl/learn/v4/overview
+
+
+
 
 
 
