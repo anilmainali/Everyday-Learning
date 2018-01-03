@@ -1,4 +1,4 @@
-## Software Testing
+# Software Testing
 
 ## Preparing for ISTQB 
 ### Following Blogs where I can practice for exam.
@@ -21,7 +21,7 @@
 
 - http://www.alpi.com/training/index.cfm?fuseaction=ShowDescription&CourseID=150&utm_source=BingAds&utm_medium=CPC&utm_term=ISTQB&utm_content=Foundation&utm_campaign=ISTQB%20Foundation
 
-## Courses I am Taking to prepare for ISTQB
+### Courses I am Taking to prepare for ISTQB
 
 - ISTQB Foundation Level Certification (CTFL BY Maged Koshty from uDemy.
 
