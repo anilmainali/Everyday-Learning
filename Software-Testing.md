@@ -29,6 +29,9 @@ https://www.udemy.com/istqb-certified-tester-foundation-level-ctfl/learn/v4/over
 
 
 ## Blogs I am reading om Software Testing
+### 14 Most Popular Articles Of 2017
+
+
 
 
 
