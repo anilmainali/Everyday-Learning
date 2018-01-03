@@ -28,6 +28,10 @@
 https://www.udemy.com/istqb-certified-tester-foundation-level-ctfl/learn/v4/overview
 
 
+## Blogs I am reading om Software Testing
+
+
+
 
 
 
