@@ -32,6 +32,10 @@ https://www.udemy.com/istqb-certified-tester-foundation-level-ctfl/learn/v4/over
 ### 14 Most Popular Articles Of 2017
 - https://dojo.ministryoftesting.com/news/14-most-popular-articles-of-2017
 
+## Web Site Tools For Testing
+
+- https://www.keycdn.com/blog/website-speed-test-tools/
+
 
 
 
