@@ -14,3 +14,8 @@
 ## Write effective QA Resume that will turn to interview call
 
 ![write effective qa resume that will turn to interview call](https://user-images.githubusercontent.com/10678180/35763631-0e691fb0-0876-11e8-94f2-974f977bb70e.jpg)
+
+## Introduction to QA Software Testing Professionalism
+![write effective qa resume that will turn to interview call](https://user-images.githubusercontent.com/10678180/35763644-46ad0134-0876-11e8-9195-9b342b82a9ff.jpg)
+
+
