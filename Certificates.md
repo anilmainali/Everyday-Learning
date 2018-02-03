@@ -26,4 +26,8 @@
 
 ![qa expert -software testing bugzilla sql agile unix](https://user-images.githubusercontent.com/10678180/35763666-d1e32ba2-0876-11e8-8d69-0154ecb56bdc.jpg)
 
+##  Learn Creative Agile Methodology To Make Dreams Come Real on Nov. 28, 2017 
+
+![learn creative agile methodology to make dreams come real](https://user-images.githubusercontent.com/10678180/35763700-4516edf2-0877-11e8-98e1-e28d03231c7d.jpg)
+
 
