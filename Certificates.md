@@ -10,3 +10,7 @@
 
 ## Software Testing By Innovation Techniques
 ![software testing by innovation techniques](https://user-images.githubusercontent.com/10678180/35763620-c5991fb0-0875-11e8-9aea-afc5634921f6.jpg)
+
+## Write effective QA Resume that will turn to interview call
+
+![write effective qa resume that will turn to interview call](https://user-images.githubusercontent.com/10678180/35763631-0e691fb0-0876-11e8-94f2-974f977bb70e.jpg)
