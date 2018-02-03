@@ -22,6 +22,8 @@
 
 ![mental productivity challenge](https://user-images.githubusercontent.com/10678180/35763660-8fba558e-0876-11e8-822c-7cde863cc748.jpg)
 
+## QA Expert :Software Testing + Bugzilla + SQL + Agile+ Unix
 
+![qa expert -software testing bugzilla sql agile unix](https://user-images.githubusercontent.com/10678180/35763666-d1e32ba2-0876-11e8-8d69-0154ecb56bdc.jpg)
 
 
