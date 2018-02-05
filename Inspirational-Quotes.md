@@ -11,3 +11,6 @@
 
 > # If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.
 > Martin Luther King Jr.
+
+> # Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
+> Pele
