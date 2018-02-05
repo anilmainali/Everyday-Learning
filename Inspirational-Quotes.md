@@ -17,5 +17,6 @@
 
 > # If somebody offers you an amazing opportunity but you are not sure you can do it, say yes – then learn how to do it later!
 
+![02_opportunity](https://user-images.githubusercontent.com/10678180/35787528-6e1de876-09f4-11e8-9122-46e177c93644.JPG)
 
 > Richard Branson
