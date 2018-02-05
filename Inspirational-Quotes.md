@@ -9,6 +9,9 @@
 > # The secret of getting ahead is getting started.
 > Mark Twain
 
+> # Secret of your future is hidden in your daily routine. A little each day adds up.
+> Unknown
+
 > # Tell me and I forget, teach me and I may remember, involve me and I learn.
 > Benjamin Franklin
 
