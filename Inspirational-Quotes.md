@@ -14,3 +14,6 @@
 
 > # Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
 > Pele
+
+> # Enjoy the little things, for one day you may look back and realize they were the big things.
+> Robert Brault
