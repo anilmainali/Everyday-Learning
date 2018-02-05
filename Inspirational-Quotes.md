@@ -20,3 +20,6 @@
 ![02_opportunity](https://user-images.githubusercontent.com/10678180/35787528-6e1de876-09f4-11e8-9122-46e177c93644.JPG)
 
 > Richard Branson
+
+> # If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.
+> Martin Luther King Jr.
