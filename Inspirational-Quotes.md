@@ -32,3 +32,6 @@
 
 > # If you can, help others; if you cannot do that, at least do not harm them.
 > Dalai Lama
+
+> # Coming together is a beginning; keeping together is progress; working together is success.
+> Henry Ford
