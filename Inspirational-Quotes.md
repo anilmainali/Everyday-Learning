@@ -3,6 +3,9 @@
 > # Nothing is impossible, the word itself says 'I'm possible'! 
 >  By Audrey Hepburn
 
+> # What we think, we become.
+> Buddha
+
 > # Live as if you were to die tomorrow. Learn as if you were to live forever.
 > By Mahatma Gandhi
 
