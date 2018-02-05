@@ -6,6 +6,9 @@
 > # What we think, we become.
 > Buddha
 
+> # The secret of getting ahead is getting started.
+> Mark Twain
+
 > # Live as if you were to die tomorrow. Learn as if you were to live forever.
 > By Mahatma Gandhi
 
