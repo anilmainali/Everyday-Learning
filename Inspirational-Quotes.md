@@ -26,3 +26,6 @@
 
 > # Enjoy the little things, for one day you may look back and realize they were the big things.
 > Robert Brault
+
+> # If you can, help others; if you cannot do that, at least do not harm them.
+> Dalai Lama
