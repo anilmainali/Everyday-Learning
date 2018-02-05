@@ -14,3 +14,8 @@
 ![mahatmagandhi](https://user-images.githubusercontent.com/10678180/35787184-f9d555aa-09f1-11e8-8e95-ad6aa2274acd.jpg)
 
 ― By Mahatma Gandhi
+
+> # If somebody offers you an amazing opportunity but you are not sure you can do it, say yes – then learn how to do it later!
+
+
+> Richard Branson
