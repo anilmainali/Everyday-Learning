@@ -9,6 +9,9 @@
 > # The secret of getting ahead is getting started.
 > Mark Twain
 
+> # Don't be afraid to start over. It's a new chance to rebuild what you want.
+> Billy Cox
+
 > # Live as if you were to die tomorrow. Learn as if you were to live forever.
 > By Mahatma Gandhi
 
