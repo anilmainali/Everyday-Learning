@@ -9,6 +9,9 @@
 > # The secret of getting ahead is getting started.
 > Mark Twain
 
+> # Tell me and I forget, teach me and I may remember, involve me and I learn.
+> Benjamin Franklin
+
 > # Don't be afraid to start over. It's a new chance to rebuild what you want.
 > Billy Cox
 
