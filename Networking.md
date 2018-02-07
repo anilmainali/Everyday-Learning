@@ -12,6 +12,8 @@
 
 # The Physical Layer
 ## Moving Bits Across the Wire
+## Twisted Pair Cabling and Duplexing
+
 
 
 
