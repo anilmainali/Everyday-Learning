@@ -17,13 +17,6 @@
 ## Network Ports and Patch Panels
 
 
-# Resources
-## Counting Binary Using Binary
-
-
-
-
-
 
 # The Data Link Layer
 ## Ethernet and MAC Addresses
@@ -31,8 +24,12 @@
 ## Dissecting an Ethernet Frame
 
 
+# Resources
+## Counting Binary Using Binary
 
+<img width="516" alt="countingbinaryusingcalculator_01" src="https://user-images.githubusercontent.com/10678180/35892061-301bd3ec-0b6d-11e8-84f9-172111f6bf75.png">
 
+Image Credit: Pluralsight.com
 
 
 
