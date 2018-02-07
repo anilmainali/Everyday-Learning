@@ -6,6 +6,7 @@
 
 # The Basics of Networking Devices
 ## Cables
+## Hubs and Switches
 
 
 
