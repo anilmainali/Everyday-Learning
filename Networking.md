@@ -17,6 +17,13 @@
 ## Network Ports and Patch Panels
 
 
+# Resources
+## Counting Binary Using Binary
+
+
+
+
+
 
 # The Data Link Layer
 ## Ethernet and MAC Addresses
