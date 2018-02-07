@@ -10,6 +10,10 @@
 ## Routers
 ## Servers and Clients
 
+# The Physical Layer
+## Moving Bits Across the Wire
+
+
 
 
 
