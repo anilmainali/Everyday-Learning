@@ -18,7 +18,7 @@ https://www.udemy.com/30-day-challenge-to-a-more-productive-and-much-happier-you
 
 # Motivational Videos
 
-[![Alt text]()](https://https://www.youtube.com/watch?v=hbsW_eLEbsQ&feature=youtu.be)
+[![Alt text](Video)](https://https://www.youtube.com/watch?v=hbsW_eLEbsQ&feature=youtu.be)
 
 
 https://www.youtube.com/watch?v=hbsW_eLEbsQ&feature=youtu.be
