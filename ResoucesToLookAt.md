@@ -2,6 +2,8 @@
 
 # Calculator: Compress/Decompress IPv6 Addresses
 
+https://www.countryipblocks.net/ipv6_compression.php
+
 # Pen Testing
 ## QnA Friday 8 - What is Penetration Testing | Introduction to Penetration Testing | Pen Test Tools
 
