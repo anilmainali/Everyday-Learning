@@ -1,6 +1,8 @@
 
 # How to find my IP?
 
+https://whatismyipaddress.com/
+
 # Calculator: Compress/Decompress IPv6 Addresses
 
 https://www.countryipblocks.net/ipv6_compression.php
