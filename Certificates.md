@@ -1,6 +1,8 @@
 
 ![istqbfoundationlevelcertification](https://user-images.githubusercontent.com/10678180/36101287-88b2e8a0-0fce-11e8-990f-e861252fad22.jpg)
 
+![certifiedtesterfoundationlevel](https://user-images.githubusercontent.com/10678180/36101525-3892d654-0fcf-11e8-989f-b0ee0dfa7d93.jpg)
+
 ![learn html and css from scratch](https://user-images.githubusercontent.com/10678180/35763564-b5878edc-0874-11e8-8f22-0f296ae51844.jpg)
 
 ![the ultimate git 5-day challenge](https://user-images.githubusercontent.com/10678180/35763584-126bc712-0875-11e8-89ad-27cf0a022ef3.jpg)
