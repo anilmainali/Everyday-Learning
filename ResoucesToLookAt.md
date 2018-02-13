@@ -9,6 +9,7 @@ https://www.gnu.org/software/emacs/tour/
 
 # Vim
 
+https://vim.sourceforge.io/docs.php
 
 
 
