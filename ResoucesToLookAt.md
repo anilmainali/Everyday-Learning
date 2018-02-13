@@ -20,6 +20,8 @@ https://www.nano-editor.org/
 
 https://github.com/PowerShell/PowerShell/tree/master/docs
 
+Training Course at Microsoft: https://mva.microsoft.com/en-us/training-courses/getting-started-with-microsoft-powershell-8276?l=r54IrOWy_2304984382
+
 
 
 # How to find my IP?
