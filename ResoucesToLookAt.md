@@ -13,6 +13,7 @@ https://vim.sourceforge.io/docs.php
 
 # Nano
 
+https://www.nano-editor.org/
 
 # How to find my IP?
 
