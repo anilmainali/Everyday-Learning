@@ -11,6 +11,7 @@ https://www.gnu.org/software/emacs/tour/
 
 https://vim.sourceforge.io/docs.php
 
+# Nano
 
 
 # How to find my IP?
