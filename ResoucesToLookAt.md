@@ -16,6 +16,11 @@ https://vim.sourceforge.io/docs.php
 https://www.nano-editor.org/
 
 # CLI Command Line Interface
+- PowerShell
+
+https://github.com/PowerShell/PowerShell/tree/master/docs
+
+
 
 # How to find my IP?
 
