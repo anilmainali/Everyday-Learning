@@ -51,13 +51,13 @@ http://configmgr2012.blogspot.com/2010/06/windows-update-explained.html#_Toc2100
 
 https://blogs.technet.microsoft.com/windowsitpro/2016/08/15/further-simplifying-servicing-model-for-windows-7-and-windows-8-1/
 
+https://www.linux.com/learn/linux-101-updating-your-system
 
+https://www.linux.com/learn/linux-101-updating-your-system
 
+https://www.cyberciti.biz/faq/how-do-i-update-ubuntu-linux-softwares/
 
-
-
-
-
+https://financesonline.com/add-product/
 
 # Access Control Lists
 
