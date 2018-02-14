@@ -21,6 +21,18 @@ https://en.wikipedia.org/wiki/NuGet
 
 https://chocolatey.org/packages
 
+https://help.launchpad.net/Packaging/PPA
+
+https://www.gimp.org/downloads/
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa372837(v=vs.85).aspx
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa370557(v=vs.85).aspx
+
+
+
 
 
 
