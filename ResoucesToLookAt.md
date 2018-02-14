@@ -10,6 +10,11 @@ https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server
 # Portable Executable
 https://en.wikipedia.org/wiki/Portable_Executable
 
+# Installation Package
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa369294(v=vs.85).aspx
+
+
+
 
 
 
