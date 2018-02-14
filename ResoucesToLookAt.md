@@ -31,6 +31,18 @@ https://msdn.microsoft.com/en-us/library/windows/desktop/aa372837(v=vs.85).aspx
 
 https://msdn.microsoft.com/en-us/library/windows/desktop/aa370557(v=vs.85).aspx
 
+https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/introduction-to-plug-and-play
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/install/step-1--the-new-device-is-identified
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/install/hardware-ids
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/install/step-2--a-driver-for-the-device-is-selected
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store
+
+
+
 
 
 
