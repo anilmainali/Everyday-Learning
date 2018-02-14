@@ -13,7 +13,9 @@ https://en.wikipedia.org/wiki/Portable_Executable
 # Installation Package
 https://msdn.microsoft.com/en-us/library/windows/desktop/aa369294(v=vs.85).aspx
 
+# Microsoft Store (digital)
 
+https://en.wikipedia.org/wiki/Microsoft_Store_(digital)
 
 
 
