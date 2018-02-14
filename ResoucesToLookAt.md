@@ -7,6 +7,9 @@ https://msdn.microsoft.com/en-us/library/windows/desktop/aa374872(v=vs.85).aspx
 
 https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732880(v=ws.11)
 
+# Portable Executable
+https://en.wikipedia.org/wiki/Portable_Executable
+
 
 
 
