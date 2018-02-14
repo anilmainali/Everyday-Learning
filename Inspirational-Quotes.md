@@ -21,6 +21,9 @@
 > # Live as if you were to die tomorrow. Learn as if you were to live forever.
 > By Mahatma Gandhi
 
+> # If you want something you've never had.You must be willing to do something you've never done.
+> Thomas Jefferson
+
 > # If somebody offers you an amazing opportunity but you are not sure you can do it, say yes – then learn how to do it later!
 > Richard Branson
 
