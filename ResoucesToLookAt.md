@@ -5,6 +5,12 @@ http://www.7-zip.org/download.html
 
 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.archive/compress-archive?view=powershell-5.0
 
+http://www.linfo.org/tar.html
+
+https://en.wikipedia.org/wiki/Dynamic-link_library
+
+https://en.wikipedia.org/wiki/DLL_Hell
+
 
 
 
