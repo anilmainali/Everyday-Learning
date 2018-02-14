@@ -41,6 +41,15 @@ https://docs.microsoft.com/en-us/windows-hardware/drivers/install/step-2--a-driv
 
 https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store
 
+https://en.wikipedia.org/wiki/Device_file
+
+https://en.wikipedia.org/wiki/Udev
+
+https://en.wikipedia.org/wiki/Windows_Update
+
+http://configmgr2012.blogspot.com/2010/06/windows-update-explained.html#_Toc210097879
+
+https://blogs.technet.microsoft.com/windowsitpro/2016/08/15/further-simplifying-servicing-model-for-windows-7-and-windows-8-1/
 
 
 
