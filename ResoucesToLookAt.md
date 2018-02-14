@@ -1,6 +1,11 @@
 
 # Package and Software Management
 
+http://www.7-zip.org/download.html
+
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.archive/compress-archive?view=powershell-5.0
+
+
 
 
 # Access Control Lists
