@@ -20,11 +20,9 @@ https://en.wikipedia.org/wiki/Microsoft_Store_(digital)
 # App packager (MakeAppx.exe)
 https://msdn.microsoft.com/en-us/library/windows/desktop/hh446767(v=vs.85).aspx
 
+# Description of the command-line switches that are supported by a software installation package, an update package, or a hotfix package that was created by using Microsoft Self-Extractor
 
-
-
-
-
+https://support.microsoft.com/en-us/help/912203/description-of-the-command-line-switches-that-are-supported-by-a-softw
 
 # Source code editor
 - Notepad ++
