@@ -17,6 +17,10 @@ https://msdn.microsoft.com/en-us/library/windows/desktop/aa369294(v=vs.85).aspx
 
 https://en.wikipedia.org/wiki/Microsoft_Store_(digital)
 
+# App packager (MakeAppx.exe)
+https://msdn.microsoft.com/en-us/library/windows/desktop/hh446767(v=vs.85).aspx
+
+
 
 
 
