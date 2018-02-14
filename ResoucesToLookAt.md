@@ -11,6 +11,18 @@ https://en.wikipedia.org/wiki/Dynamic-link_library
 
 https://en.wikipedia.org/wiki/DLL_Hell
 
+https://msdn.microsoft.com/en-us/library/aa376307.aspx
+
+http://www.powershellgallery.com/
+
+https://help.ubuntu.com/lts/serverguide/dpkg.html
+
+https://en.wikipedia.org/wiki/NuGet
+
+https://chocolatey.org/packages
+
+
+
 
 
 
