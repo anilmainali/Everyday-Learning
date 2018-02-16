@@ -132,4 +132,7 @@ for delivering the right product right on time.
 
 http://storiesonboard.com/
 
+# Click Tags
+https://flashtalkingus.atlassian.net/wiki/spaces/HTD/pages/181501990/Click+Tags
+
 
