@@ -1,4 +1,8 @@
 
+## Congrats on signing up for CQURE’s 5-day Challenge.This will be a 5-day intense ride, starting on Monday, March 5th.
+
+https://cqureacademy.com/challenge
+
 # Break Into tech
 
 https://www.breakinto.tech/
