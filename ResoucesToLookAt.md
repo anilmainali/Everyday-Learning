@@ -3,6 +3,10 @@
 
 http://www.developsense.com/
 
+# Affordable IT Training
+
+https://instructor-paul.teachable.com/
+
 # Package and Software Management
 
 http://www.7-zip.org/download.html
