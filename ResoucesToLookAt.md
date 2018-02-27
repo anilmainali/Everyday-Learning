@@ -3,6 +3,8 @@
 
 https://cqureacademy.com/challenge
 
+https://cqureacademy.com/
+
 # Break Into tech
 
 https://www.breakinto.tech/
