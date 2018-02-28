@@ -1,3 +1,6 @@
+## Basic Networking for CCNP Routing and Switching 300-101 ROUTE
+
+https://app.pluralsight.com/player?course=basic-networking-ccnp-routing-switching-300-101-route&author=ben-piper&name=basic-networking-ccnp-routing-switching-300-101-route-m3&clip=1&mode=live
 
 ## Congrats on signing up for CQURE’s 5-day Challenge.This will be a 5-day intense ride, starting on Monday, March 5th.
 
