@@ -1,3 +1,7 @@
+# Platform
+
+https://www.platformbyps.org/apply/
+
 # Take control of your career in data science.
 
 https://refactored.ai/
