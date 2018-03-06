@@ -1,3 +1,12 @@
+# CSS
+
+CSS Variables / Custom Properties (full course)
+
+https://www.youtube.com/watch?v=GF8aoDqebsQ&feature=youtu.be&utm_content=buffer2f4d5&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+
+
+
+
 http://www.myautomationlab.com/2018/03/quick-list-of-core-java-topics-for.html
 
 # Platform
