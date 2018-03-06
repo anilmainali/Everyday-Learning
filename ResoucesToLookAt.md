@@ -1,3 +1,5 @@
+http://www.myautomationlab.com/2018/03/quick-list-of-core-java-topics-for.html
+
 # Platform
 
 https://www.platformbyps.org/apply/
