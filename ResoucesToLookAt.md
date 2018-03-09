@@ -1,4 +1,11 @@
 
+# Hacking
+
+https://teamultimate.in/
+
+https://github.com/UltimateHackers/Striker
+
+
 # How to record the screen on your iPhone, iPad, or iPod touch
 
 https://support.apple.com/en-us/HT207935
