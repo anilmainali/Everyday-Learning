@@ -1,4 +1,6 @@
 
+http://quality-spectrum.com/
+
 https://dev.to/
 
 # Hacking
