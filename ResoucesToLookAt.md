@@ -4,6 +4,8 @@ http://tryruby.org/
 
 https://www.tutorialspoint.com/execute_ruby_online.php
 
+http://rubylearning.com/satishtalim/ruby_arrays.html
+
 http://www.rubyguides.com/
 
 https://www.codecademy.com/learn/learn-ruby
