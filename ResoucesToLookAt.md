@@ -2,6 +2,8 @@
 
 http://tryruby.org/
 
+https://www.codecademy.com/articles/glossary-ruby
+
 https://www.tutorialspoint.com/execute_ruby_online.php
 
 http://rubylearning.com/satishtalim/ruby_arrays.html
