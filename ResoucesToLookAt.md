@@ -8,6 +8,10 @@ http://www.pragtob.info/rails-beginner-cheatsheet/index.html
 
 http://overapi.com/ruby
 
+http://ruby-doc.org/core-2.2.0/
+
+
+
 https://www.tutorialspoint.com/execute_ruby_online.php
 
 http://rubylearning.com/satishtalim/ruby_arrays.html
