@@ -2,6 +2,8 @@
 
 http://tryruby.org/
 
+http://www.rubyguides.com/
+
 https://www.codecademy.com/learn/learn-ruby
 
 https://www.codewars.com/
