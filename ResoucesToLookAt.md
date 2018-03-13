@@ -2,7 +2,9 @@
 
 http://tryruby.org/
 
+https://www.codecademy.com/learn/learn-ruby
 
+# Testing Blogs
 
 https://www.thetesttribe.com/
 
