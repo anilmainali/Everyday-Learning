@@ -10,6 +10,8 @@ http://www.rubyguides.com/
 
 https://www.codecademy.com/learn/learn-ruby
 
+http://ruby-for-beginners.rubymonstas.org/built_in_classes/arrays.html
+
 # How To Work with Arrays in Ruby
 
 https://www.digitalocean.com/community/tutorials/how-to-work-with-arrays-in-ruby
