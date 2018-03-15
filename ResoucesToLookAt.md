@@ -2,6 +2,8 @@
 
 http://tryruby.org/
 
+https://launchschool.com/books/ruby/read/hashes#iteratingoverhashes
+
 https://www.codecademy.com/articles/glossary-ruby
 
 http://www.pragtob.info/rails-beginner-cheatsheet/index.html
