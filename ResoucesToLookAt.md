@@ -1,5 +1,7 @@
 # Ruby
 
+https://testinginstitute.com/Free-Software-Testing-Training.php
+
 http://tryruby.org/
 
 https://launchschool.com/books/ruby/read/hashes#iteratingoverhashes
