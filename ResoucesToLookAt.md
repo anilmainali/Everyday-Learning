@@ -1,3 +1,7 @@
+
+# 03/22/2018
+https://superheroacademy.net/
+
 # 03/19/2018
 
 ## https://www.wired.com/story/tech-companies-try-to-retrain-the-workers-theyre-displacing/
