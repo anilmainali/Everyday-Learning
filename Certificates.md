@@ -2,7 +2,7 @@
 
 # Introduction to TOSCA TestSuite (ScriptLess Automation Tool)
 
-## Monday, March 26, 2018
+## Monday, March 25, 2018
 
 <img width="973" alt="udemycertification" src="https://user-images.githubusercontent.com/10678180/37889174-c833c494-3090-11e8-9203-e0727056c0bf.png">
 
