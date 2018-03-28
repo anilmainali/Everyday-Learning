@@ -1,6 +1,6 @@
 
 
-<img width="973" alt="udemycertification" src="https://user-images.githubusercontent.com/10678180/38033714-40fdb296-3266-11e8-8569-65ad2dcf1399.png">
+<img width="971" alt="get in touch with tricentis tosca test suite" src="https://user-images.githubusercontent.com/10678180/38033818-8165c67a-3266-11e8-99f2-21042bd556c9.png">
 
 # Introduction to TOSCA TestSuite (ScriptLess Automation Tool)
 
