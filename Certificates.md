@@ -1,7 +1,7 @@
 #  Master Test Management with HP ALM tutorials /Quality Center 
 ## Thursday April 5, 2018
 
-
+<img width="974" alt="2018-04-05_1714" src="https://user-images.githubusercontent.com/10678180/38394668-04ed2c74-38f5-11e8-9460-92b520b40ee0.png">
 
 # Get in touch with Tricentis Tosca Testsuite
 ## Wednesday, March 27, 2018
