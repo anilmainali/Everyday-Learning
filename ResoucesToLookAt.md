@@ -19,6 +19,8 @@ https://reqtest.com/blog/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfue
 
 https://sqa.stackexchange.com/?tab=hot&utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+https://www.joecolantonio.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
 
 
 
