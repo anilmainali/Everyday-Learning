@@ -33,6 +33,10 @@ https://www.cigniti.com/blog/?utm_source=fuel&utm_medium=referral&utm_campaign=l
 
 https://www.youtube.com/user/gcreddy7/featured?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+http://blog.qamentor.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
+
+
 
 
 
