@@ -17,6 +17,8 @@ https://www.9lessons.info/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfu
 
 https://reqtest.com/blog/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+https://sqa.stackexchange.com/?tab=hot&utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
 
 
 
