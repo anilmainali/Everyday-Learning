@@ -38,6 +38,8 @@ http://blog.qamentor.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfue
 
 https://www.youtube.com/user/IISTtestingtips/feed?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+http://adventuresinqa.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
 
 
 
