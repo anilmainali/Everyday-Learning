@@ -29,6 +29,10 @@ http://blog.testbirds.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfu
 
 https://saucelabs.com/blog?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+https://www.cigniti.com/blog/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
+
+
 
 
 
