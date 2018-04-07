@@ -11,6 +11,10 @@ https://testing.googleblog.com/?utm_source=fuel&utm_medium=referral&utm_campaign
 
 http://trishkhoo.com/blog/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+http://www.softwaretestinghelp.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
+
+
 
 
 
