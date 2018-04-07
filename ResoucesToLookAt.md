@@ -27,6 +27,8 @@ https://www.blazemeter.com/blog?utm_source=fuel&utm_medium=referral&utm_campaign
 
 http://blog.testbirds.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+https://saucelabs.com/blog?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
 
 
 
