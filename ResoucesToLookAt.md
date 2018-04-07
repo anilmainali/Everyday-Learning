@@ -31,6 +31,8 @@ https://saucelabs.com/blog?utm_source=fuel&utm_medium=referral&utm_campaign=lrfu
 
 https://www.cigniti.com/blog/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+https://www.youtube.com/user/gcreddy7/featured?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
 
 
 
