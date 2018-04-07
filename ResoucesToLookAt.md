@@ -1,4 +1,10 @@
 
+
+# 04/07/2018
+## 21 Software Testing Blogs to Level Up Your QA skills
+
+## RESOURCES : https://www.loginradius.com/fuel/software-testing-blogs-to-level-up-qa-skills/
+
 http://thetesteye.com/blog/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
 https://www.stickyminds.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
@@ -39,22 +45,6 @@ http://blog.qamentor.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfue
 https://www.youtube.com/user/IISTtestingtips/feed?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
 http://adventuresinqa.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # 03/22/2018
 https://superheroacademy.net/
