@@ -1,6 +1,9 @@
 
 http://thetesteye.com/blog/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+https://www.stickyminds.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
+
 
 # 03/22/2018
 https://superheroacademy.net/
