@@ -21,6 +21,8 @@ https://sqa.stackexchange.com/?tab=hot&utm_source=fuel&utm_medium=referral&utm_c
 
 https://www.joecolantonio.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+https://blog.99tests.com/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
 
 
 
