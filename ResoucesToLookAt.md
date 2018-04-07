@@ -15,6 +15,10 @@ http://www.softwaretestinghelp.com/?utm_source=fuel&utm_medium=referral&utm_camp
 
 https://www.9lessons.info/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
 
+https://reqtest.com/blog/?utm_source=fuel&utm_medium=referral&utm_campaign=lrfuel
+
+
+
 
 
 
