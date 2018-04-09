@@ -15,7 +15,7 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 <img width="366" alt="download_01" src="https://user-images.githubusercontent.com/10678180/38525939-de7d1630-3c19-11e8-8b28-90b77062e85c.png">
 
-2. Click on Get Burp
+2. Click on Get Burp.
 
 <img width="335" alt="download_02" src="https://user-images.githubusercontent.com/10678180/38525938-de24dd9e-3c19-11e8-9445-6f9e2fbd30da.png">
 
@@ -27,7 +27,7 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 <img width="250" alt="download_03" src="https://user-images.githubusercontent.com/10678180/38525937-dddfbfb6-3c19-11e8-95bd-ef5478b833b4.png">
 
-5. Double click on the .dmg file
+5. Double click on the .dmg file.
 
 <img width="563" alt="download_04" src="https://user-images.githubusercontent.com/10678180/38525934-dd876e88-3c19-11e8-9781-c9f8447e417b.png">
 
@@ -51,19 +51,19 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 # How to open for the first time?
 
-1. Navigate  to Launchpad
+1. Navigate  to Launchpad.
 
 <img width="79" alt="download_11" src="https://user-images.githubusercontent.com/10678180/38526424-f1a6761e-3c1b-11e8-9ad5-7fd03817de58.png">
 
-2. Click on burp suite app
+2. Click on burp suite app.
 
 <img width="560" alt="download_09" src="https://user-images.githubusercontent.com/10678180/38525929-dcfe9554-3c19-11e8-8d35-3d4d1fd4eee2.png">
 
-3. Click I Accept button
+3. Click I Accept button.
 
 <img width="840" alt="download_10" src="https://user-images.githubusercontent.com/10678180/38525928-dce4435c-3c19-11e8-8569-526389b40d9b.png">
 
-4. Interface opens
+4. Interface opens.
 
 
 
