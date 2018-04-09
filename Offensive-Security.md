@@ -17,9 +17,9 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 <img width="500" alt="download_08" src="https://user-images.githubusercontent.com/10678180/38525930-dd1b58f6-3c19-11e8-989c-01471c8d7ef8.png">
 
-<img width="500" alt="download_07" src="https://user-images.githubusercontent.com/10678180/38525931-dd3b467a-3c19-11e8-8c41-76bbecfea5b1.png">
 
-<img width="500" alt="download_06" src="https://user-images.githubusercontent.com/10678180/38525932-dd5a7e5a-3c19-11e8-9613-27427136aeea.png">
+
+
 
 
 
@@ -66,11 +66,11 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 7. Click on open.
 
-
+<img width="500" alt="download_06" src="https://user-images.githubusercontent.com/10678180/38525932-dd5a7e5a-3c19-11e8-9613-27427136aeea.png">
 
 8. Click on Next.
 
-
+<img width="500" alt="download_07" src="https://user-images.githubusercontent.com/10678180/38525931-dd3b467a-3c19-11e8-8c41-76bbecfea5b1.png">
 
 9. Click on Next.
 
