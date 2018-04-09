@@ -11,9 +11,9 @@ https://www.youtube.com/watch?v=YCCrVtvAu2I
 https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 # Download Burp Suite
-<img width="840" alt="download_10" src="https://user-images.githubusercontent.com/10678180/38525928-dce4435c-3c19-11e8-8569-526389b40d9b.png">
 
-<img width="560" alt="download_09" src="https://user-images.githubusercontent.com/10678180/38525929-dcfe9554-3c19-11e8-8d35-3d4d1fd4eee2.png">
+
+
 
 
 
@@ -93,10 +93,11 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 2. Click on burp suite app
 
+<img width="560" alt="download_09" src="https://user-images.githubusercontent.com/10678180/38525929-dcfe9554-3c19-11e8-8d35-3d4d1fd4eee2.png">
 
 3. Click I Accept button
 
-
+<img width="840" alt="download_10" src="https://user-images.githubusercontent.com/10678180/38525928-dce4435c-3c19-11e8-8569-526389b40d9b.png">
 
 4. Interface opens
 
