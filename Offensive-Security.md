@@ -21,9 +21,9 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 <img width="500" alt="download_06" src="https://user-images.githubusercontent.com/10678180/38525932-dd5a7e5a-3c19-11e8-9613-27427136aeea.png">
 
-<img width="512" alt="download_05" src="https://user-images.githubusercontent.com/10678180/38525933-dd7225dc-3c19-11e8-991a-c4c651c10420.png">
 
-<img width="563" alt="download_04" src="https://user-images.githubusercontent.com/10678180/38525934-dd876e88-3c19-11e8-9781-c9f8447e417b.png">
+
+
 
 
 
@@ -58,12 +58,11 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 5. Double click on the .dmg file
 
+<img width="563" alt="download_04" src="https://user-images.githubusercontent.com/10678180/38525934-dd876e88-3c19-11e8-9781-c9f8447e417b.png">
 
 6. Click on Burp Suite Community Edition Installer.
 
-
-
-
+<img width="512" alt="download_05" src="https://user-images.githubusercontent.com/10678180/38525933-dd7225dc-3c19-11e8-991a-c4c651c10420.png">
 
 7. Click on open.
 
