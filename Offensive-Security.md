@@ -7,38 +7,9 @@
 
 https://www.youtube.com/watch?v=YCCrVtvAu2I
 
-
 https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 # Download Burp Suite
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1. Navigate to https://portswigger.net/
 
@@ -77,14 +48,6 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 <img width="500" alt="download_08" src="https://user-images.githubusercontent.com/10678180/38525930-dd1b58f6-3c19-11e8-989c-01471c8d7ef8.png">
 
 10. Click on Finish.
-
-
-
-
-
-
-
-
 
 # How to open for the first time?
 
