@@ -27,7 +27,7 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 <img width="798" alt="download_02a" src="https://user-images.githubusercontent.com/10678180/38525935-ddaa144c-3c19-11e8-8a53-3f71b44e8a90.png">
 
-<img width="250" alt="download_03" src="https://user-images.githubusercontent.com/10678180/38525937-dddfbfb6-3c19-11e8-95bd-ef5478b833b4.png">
+
 
 
 
@@ -50,9 +50,7 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 3. Under Community Edition, Click on Download.
 
-
-
-
+<img width="250" alt="download_03" src="https://user-images.githubusercontent.com/10678180/38525937-dddfbfb6-3c19-11e8-95bd-ef5478b833b4.png">
 
 4. Click on Download icon.
 
