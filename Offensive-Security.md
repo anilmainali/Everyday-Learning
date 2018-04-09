@@ -29,7 +29,7 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 <img width="250" alt="download_03" src="https://user-images.githubusercontent.com/10678180/38525937-dddfbfb6-3c19-11e8-95bd-ef5478b833b4.png">
 
-<img width="335" alt="download_02" src="https://user-images.githubusercontent.com/10678180/38525938-de24dd9e-3c19-11e8-9445-6f9e2fbd30da.png">
+
 
 
 
@@ -46,8 +46,7 @@ https://systemoverlord.com/2017/09/18/getting-started-in-offensive-security.html
 
 2. Click on Get Burp
 
-
-
+<img width="335" alt="download_02" src="https://user-images.githubusercontent.com/10678180/38525938-de24dd9e-3c19-11e8-9445-6f9e2fbd30da.png">
 
 3. Under Community Edition, Click on Download.
 
