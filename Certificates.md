@@ -1,7 +1,7 @@
 # DevOps Essentials
 ## Sunday April 22, 2018
 
-<img width="1017" alt="devops_essential" src="https://user-images.githubusercontent.com/10678180/39095671-bbbe99a8-4609-11e8-8901-fa222c1195ce.png">
+<img width="1020" alt="devops_essential" src="https://user-images.githubusercontent.com/10678180/39095681-ebaf2254-4609-11e8-8e7b-76450d07529a.png">
 
 #  Master Test Management with HP ALM tutorials /Quality Center 
 ## Thursday April 5, 2018
