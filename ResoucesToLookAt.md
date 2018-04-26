@@ -1,5 +1,13 @@
 # 04/24/2018
 
+# QA Automation Pipeline – Learn How to Build Your Own
+
+http://codefitness.us/latest-news/qa-automation-pipeline-learn-how-to-build-your-own/
+
+# MAC SET  UP
+
+https://github.com/wilsonmar/mac-setup
+
 ## Free Conference Calls
 
 https://www.freeconferencecall.com/
