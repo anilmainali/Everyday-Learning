@@ -1,3 +1,10 @@
+# # 04/26/2018
+## How to check TECHNOLOGY STACK for Automation
+
+https://www.youtube.com/watch?list=PLhW3qG5bs-L8r3wdQ3evX9mIZpHuwiDAj&time_continue=302&v=afbK2JL45xY
+
+
+
 # 04/24/2018
 
 # QA Automation Pipeline – Learn How to Build Your Own
