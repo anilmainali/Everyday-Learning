@@ -1,4 +1,8 @@
 # # 04/26/2018
+## Free Code Camp Podcast
+
+http://freecodecamp.libsyn.com/
+
 ## How to check TECHNOLOGY STACK for Automation
 
 https://www.youtube.com/watch?list=PLhW3qG5bs-L8r3wdQ3evX9mIZpHuwiDAj&time_continue=302&v=afbK2JL45xY
