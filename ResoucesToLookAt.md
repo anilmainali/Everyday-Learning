@@ -3,11 +3,11 @@
 
 https://www.youtube.com/watch?list=PLhW3qG5bs-L8r3wdQ3evX9mIZpHuwiDAj&time_continue=302&v=afbK2JL45xY
 
-Wappalyser
+- Wappalyser
 
-Whatruns
+- Whatruns
 
-built with
+- built with
 
 
 
