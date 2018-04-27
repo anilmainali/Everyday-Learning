@@ -5,6 +5,11 @@ https://www.youtube.com/watch?list=PLhW3qG5bs-L8r3wdQ3evX9mIZpHuwiDAj&time_conti
 
 Wappalyser
 
+Whatruns
+
+
+
+
 
 # 04/24/2018
 
