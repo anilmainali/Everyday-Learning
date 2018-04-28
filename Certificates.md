@@ -1,6 +1,7 @@
 # Professional Training in SOFTWARE QUALITY ASSURANCE AND TESTING
 ## Saturday April 28, 2018
 
+<img width="1016" alt="software_quality_assurance_professional" src="https://user-images.githubusercontent.com/10678180/39401268-871f46c8-4b06-11e8-8619-7a4b7f0dad94.png">
 
 # DevOps Essentials
 ## Sunday April 22, 2018
