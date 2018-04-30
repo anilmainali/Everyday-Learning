@@ -49,7 +49,7 @@
 #
 ## Git Quick Start
 
-
+<img width="877" alt="gitquickstart" src="https://user-images.githubusercontent.com/10678180/39429421-7a46e622-4c50-11e8-8faa-932377b5a14d.png">
 
 ## Software Testing By Innovation Techniques
 ![software testing by innovation techniques](https://user-images.githubusercontent.com/10678180/35763620-c5991fb0-0875-11e8-9aea-afc5634921f6.jpg)
