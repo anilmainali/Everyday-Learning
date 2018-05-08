@@ -1,6 +1,8 @@
 # Web Design for Web Developers: Build Beautiful Websites!
 ## Monday May 07, 2018
 
+<img width="975" alt="web design for web developers- build beautiful websites" src="https://user-images.githubusercontent.com/10678180/39737752-d6b85f7e-524c-11e8-9587-f41c7f25921f.png">
+
 # Professional Training in SOFTWARE QUALITY ASSURANCE AND TESTING
 ## Saturday April 28, 2018
 
