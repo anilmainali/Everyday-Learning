@@ -2,6 +2,8 @@
 
 https://www.linkedin.com/pulse/10-brilliant-powerpoint-hacks-you-need-know-vivek-vijayan/
 
+http://qatechhub.com/
+
 # 05/02/2018
 
 https://www.accredible.com/
