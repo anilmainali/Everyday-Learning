@@ -1,3 +1,9 @@
+# 05/09/2018
+
+JPEG vs. PNG: Why Image Formats Matter for a Fast Website
+
+https://thrivethemes.com/jpeg-vs-png/?utm_campaign=image+formats&utm_medium=email&utm_source=tt-newsletter&tl_inbound=1&tl_target_all=1&tl_form_type=1&tl_period_type=1
+
 # 05/08/2018
 
 https://www.linkedin.com/pulse/10-brilliant-powerpoint-hacks-you-need-know-vivek-vijayan/
