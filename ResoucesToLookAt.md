@@ -1,6 +1,11 @@
 
 # 05/13/2018
 
+UNIX Tutorial for Beginners (20+ In-depth Unix Training Videos)
+
+https://www.softwaretestinghelp.com/unix-commands/
+
+
 In this tutorial you will create an Amazon S3 bucket, upload a file, retrieve the file & delete the file.
 
 https://amzn.to/2rGREC7
