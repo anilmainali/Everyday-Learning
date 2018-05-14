@@ -1,4 +1,11 @@
-# # 05/11/2018
+
+# 05/13/2018
+
+In this tutorial you will create an Amazon S3 bucket, upload a file, retrieve the file & delete the file.
+
+https://amzn.to/2rGREC7
+
+# 05/11/2018
 http://www.qatestingtools.com/
 
 # 05/09/2018
