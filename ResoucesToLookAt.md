@@ -1,5 +1,7 @@
 # 05/15/2018
 
+https://abstracta.us/blog/performance-testing/how-to-make-a-performance-test-plan/
+
 https://realtimeboard.com/
 
 # 05/14/2018
