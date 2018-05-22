@@ -2,6 +2,7 @@
 ## websites for cloudbased browsers
 - https://crossbrowsertesting.com/
 - https://www.browserstack.com/
+- https://saucelabs.com/
 
 # 05/15/2018
 
