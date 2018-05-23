@@ -1,4 +1,9 @@
 # 05/21/2018
+
+## Coding for beginners: a manual to start in programming languages.
+
+- https://www.linkedin.com/pulse/coding-begginers-manual-start-programming-languages-cleyra-uzcategui/
+
 ## websites for cloudbased browsers
 - https://crossbrowsertesting.com/
 - https://www.browserstack.com/
