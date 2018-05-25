@@ -1,3 +1,9 @@
+
+# 05/24/2018
+
+This blog Focuses on AI and Testing
+http://testerstories.com/
+
 # 05/22/2018
 
 http://www.thebaguide.com/
