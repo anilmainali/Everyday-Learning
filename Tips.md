@@ -1,5 +1,5 @@
 
-# Warren Buffett 3 Advice.
+# Warren Buffett's 3 Advice.
 
 1. Approach everything with integrity.
 2. Get comfortable saying 'no'.
