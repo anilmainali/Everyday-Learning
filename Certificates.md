@@ -7,7 +7,9 @@
  
  # Troubleshooting Skills for Performance Engineers
  
+ ## Wednesday May 23, 2018
  
+ <img width="993" alt="troubleshooting-skills-for-performance-engineers" src="https://user-images.githubusercontent.com/10678180/41136782-6a9871bc-6a9d-11e8-987d-ffb181142134.png">
  
 # Three Emerging Careers for Business Analysts - An Overview
 ## Tuesday May 22, 2018
