@@ -5,6 +5,10 @@
  
  <img width="816" alt="googleitprofessionalcertificate" src="https://user-images.githubusercontent.com/10678180/40699185-96c266d2-6398-11e8-8f50-bfaba04adbb0.png">
  
+ # Troubleshooting Skills for Performance Engineers
+ 
+ 
+ 
 # Three Emerging Careers for Business Analysts - An Overview
 ## Tuesday May 22, 2018
  
