@@ -1,4 +1,8 @@
 
+# 06/09/2018
+
+https://www.vskills.in/certification/
+
 # 05/24/2018
 
 This blog Focuses on AI and Testing
