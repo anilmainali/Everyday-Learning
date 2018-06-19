@@ -8,6 +8,7 @@
 # Performance Testing using LoadRunner 12.5 Advanced + Basics 
 ## Monday June 11, 2018
 
+<img width="896" alt="performance testing using loadrunner 12 5 advanced basics" src="https://user-images.githubusercontent.com/10678180/41627733-18891d88-73e7-11e8-944f-c78cb4acf076.png">
 
 
 # Google IT Support Professional Certificate
