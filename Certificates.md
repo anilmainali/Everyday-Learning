@@ -1,5 +1,8 @@
  # All My Certificates in one  `Place.`
  
+## Getting Started with BlazeMeter
+## Tuesday June 19, 2018
+
 # Google IT Support Professional Certificate
 ## Tuesday May 29, 2018
  
