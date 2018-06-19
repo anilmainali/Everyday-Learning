@@ -3,6 +3,8 @@
 ## Getting Started with BlazeMeter
 ## Tuesday June 19, 2018
 
+<img width="898" alt="getting started with blazemeter" src="https://user-images.githubusercontent.com/10678180/41627609-926ed68e-73e6-11e8-963a-e5a8dc071533.png">
+
 # Google IT Support Professional Certificate
 ## Tuesday May 29, 2018
  
