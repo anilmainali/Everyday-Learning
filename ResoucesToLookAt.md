@@ -1,4 +1,4 @@
-# # 06/20/2018
+# 06/20/2018
 
 https://lambdaschool.com/
 
