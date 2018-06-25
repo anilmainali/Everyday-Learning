@@ -1,3 +1,6 @@
+# 06/25/2018
+https://events.itrevolution.com/eur/
+
 # 06/23/2018
 
 https://www.thebusinessoftesting.com/
