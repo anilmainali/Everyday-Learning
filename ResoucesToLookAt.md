@@ -1,6 +1,9 @@
 # 06/25/2018
 https://events.itrevolution.com/eur/
 
+# Free Website for practicing Selenium scripts
+http://www.way2automation.com/demo.html
+
 # 06/23/2018
 
 https://www.thebusinessoftesting.com/
