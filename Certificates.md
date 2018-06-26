@@ -3,6 +3,7 @@
 # Introduction To Software Testing
 ## Monday June 25, 2018
 
+<img width="958" alt="introductiontosoftwaretesting" src="https://user-images.githubusercontent.com/10678180/41886142-c2795c6c-78c0-11e8-968b-d7ea56e3cc64.png">
 
 # Getting Started with BlazeMeter
 ## Tuesday June 19, 2018
