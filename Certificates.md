@@ -3,7 +3,7 @@
 # Learn JMETER from Scratch -(Performance + Load) Testing 
 ## Wednesday June 27, 2018
 
-
+<img width="959" alt="jmeter" src="https://user-images.githubusercontent.com/10678180/42001280-2310c7ae-7a29-11e8-81ae-a6d6a1b47021.png">
 
 # Introduction To Software Testing
 ## Monday June 25, 2018
