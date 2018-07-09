@@ -3,7 +3,7 @@
  # JMeter - Step by Step for Beginners
  ## Monday July 9, 2018
  
-
+ <img width="954" alt="jmeter - step by step for beginners" src="https://user-images.githubusercontent.com/10678180/42457223-7d17a51a-835c-11e8-9e4a-2fa16e759aee.png">
 
 # Learn JMETER from Scratch -(Performance + Load) Testing 
 ## Wednesday June 27, 2018
