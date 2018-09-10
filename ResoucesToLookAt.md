@@ -9,6 +9,9 @@ http://testingcycles.com/index.php/2018/07/27/image-based-automation-using-sikul
 # Setup and Implementation of Sikuli – Part 2
 http://testingcycles.com/index.php/2018/09/10/sikuli-implementation-part-2/
 
+# Load Testing your Applications with Apache JMeter
+http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html
+
 # 06/25/2018
 https://events.itrevolution.com/eur/
 
