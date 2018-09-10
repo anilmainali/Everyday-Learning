@@ -1,3 +1,14 @@
+# # 09/10/2018
+
+# http://testingcycles.com/
+http://testingcycles.com/
+
+# Image Based Automation Using Sikuli – Part 1
+http://testingcycles.com/index.php/2018/07/27/image-based-automation-using-sikuli/
+
+# Setup and Implementation of Sikuli – Part 2
+http://testingcycles.com/index.php/2018/09/10/sikuli-implementation-part-2/
+
 # 06/25/2018
 https://events.itrevolution.com/eur/
 
