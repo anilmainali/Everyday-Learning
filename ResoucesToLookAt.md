@@ -1,4 +1,8 @@
 
+# 09/13/2018
+Open Machine Learning Course (beta)
+https://mlcourse.ai/
+
 # 09/11/2018
 https://www.myloadtest.com/
 
