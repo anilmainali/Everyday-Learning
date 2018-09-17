@@ -4,6 +4,9 @@ YOU HAVE JMETER...WHY USE BLAZEMETER?
 
 https://www.blazemeter.com/jmeter-load-testing?utm_source=blog&utm_medium=BM_blog&utm_campaign=selenium-vs-jmeter-which-one-should-you-choose-and-when
 
+Sococo - Team’s Online Office
+https://www.sococo.com/
+
 # 09/13/2018
 Open Machine Learning Course (beta)
 https://mlcourse.ai/
