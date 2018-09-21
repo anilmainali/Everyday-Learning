@@ -1,3 +1,9 @@
+# 09/21/2018
+
+Understanding Site Speed: The Time to First Byte (TTFB)
+
+https://www.siteground.com/blog/understanding-ttfb/
+
 # 09/18/2018
 
 HTML Full Course - Build a Website Tutorial
