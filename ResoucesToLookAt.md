@@ -1,3 +1,10 @@
+# 10/07/2018
+
+Protect and manage your Linux and Windows virtual machines with your Azure free account
+Get started with 12 months of free services
+
+https://azure.microsoft.com/en-us/free/security-management/search/?OCID=AID720197_OLA_21720997_229632847_106343861&dclid=CNus-ubq890CFQt6wQod2iUK6w
+
 # 10/02/2018
 
 660 Free Online Programming & Computer Science Courses You Can Start in October
