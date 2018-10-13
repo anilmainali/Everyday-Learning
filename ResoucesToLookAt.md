@@ -1,3 +1,10 @@
+# 10/12/2018
+
+How to Get Started with JMeter: Part 3 – Reports & Performance Metrics Best Practices
+
+https://www.blazemeter.com/blog/how-get-started-jmeter-part-3-%E2%80%93-reports-performance-metrics-best-practices
+
+
 # 10/07/2018
 
 Protect and manage your Linux and Windows virtual machines with your Azure free account
