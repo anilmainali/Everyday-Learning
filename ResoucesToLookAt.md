@@ -1,6 +1,15 @@
 
 # 12/02/2018
 
+# Download and save files in JMeter
+https://stackoverflow.com/questions/3464206/download-and-save-files-in-jmeter
+
+
+# How to Save Response Data in JMeter
+
+https://www.blazemeter.com/blog/how-to-save-response-data-in-jmeter
+
+
 A beginner’s guide to website optimization
 
 https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72
