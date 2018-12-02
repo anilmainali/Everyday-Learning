@@ -1,4 +1,10 @@
 
+# 12/02/2018
+
+A beginner’s guide to website optimization
+
+https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72
+
 # 10/28/2018
 
 Download Free Ebooks using Apache JMeter
