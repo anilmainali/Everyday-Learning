@@ -1,4 +1,23 @@
 
+# 04/21/2019
+
+https://writetodone.com/20-actionable-email-marketing-tips-for-bloggers/
+
+https://qainsights.com/
+
+https://www.youtube.com/watch?v=ut3IsZCX7yE
+
+http://sikulix.com/quickstart/#qs1
+
+https://www.java-made-easy.com/java-for-beginners.html
+
+https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/
+
+https://www.hpe.com/h41271/404D.aspx?cc=US&ll=en&url=http://domainredirects-sw.ext.hpe.com/community.saas.hpe.com/t5/LoadRunner-Practitioners-Forum/how-to-correlate-the-cancel-all-flights-in-webtours/td-p/569982
+
+http://www.myloadtest.com/vugen-runtime-settings
+
+
 # 01/21/2018
 
 ## Learn from India’s Brightest Minds — Here are 300 Free Courses from IITs that are Starting Soon
