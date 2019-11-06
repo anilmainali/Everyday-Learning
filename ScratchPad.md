@@ -132,6 +132,12 @@ Transaction ST02 monitors the usage of these buffers.
 
 The most critical factors it reports are hit ratio, free spaces and swaps.
 
+#### Hit Ratio: 
+
+The hit ratio is the percentage of request that can be fulfilled by the information in each buffer (preventing expensive database requests), and perhaps is the most important statistic on the screen.
+
+Note: The higher the hit ratio is the better it is.
+The Hit Ratio of the single record buffer increases very slowly from system startup: therefore, a hit ratio less than 90% is a concern only if there is no free space left in the buffer.
 
 
 
