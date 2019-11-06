@@ -52,6 +52,13 @@ the Save button.
 
 During installation. While installing the SAP GUI client, enable the SAP GUI Scripting option.
 
+## Replay SAP GUI Scripts
+
+Replace Masked Password
+For additional security, you can mask the password within the code. Right-click in the password text (the actual text, not *****) and select Mask String. VuGen inserts an lr_unmask function at the location of the password as follows:
+
+sapgui_logon("user", lr_unmask("3ea037b758"), "800", "EN");
+
 # Useful LR Shortcuts
 
 control + T = TRANSACTION NAME
