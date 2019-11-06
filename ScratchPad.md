@@ -147,7 +147,11 @@ Free space measures how full the buffer is.
 
 Swaps show how many times data had to be removed from the buffer to make room for other data.
 
+### Interview Question:
 
+What are the bottleneck that you have seen while doing sapgui?
+
+I have monitored using ST02 and the hit ratio was less than 90% and there was no free space and definitely this was a concern and this is a bottleneck which i reported to the developer.
 
 
 
