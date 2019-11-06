@@ -46,6 +46,8 @@ Value window opens. Enter TRUE in the ProfileVal box and click
 
 the Save button.
 
+3. Restart the application server to apply your changes.
+
 
 
 # Useful LR Shortcuts
