@@ -8,4 +8,17 @@ when you highlight the icon/button the name appears.
 
 every object has a name and vugen will identify with the name.
 
+control Ids
+internally this object has control id. every object on the sap will have control id.
+
+
+like every house has a address.
+
+thousands of objects- if vugen has to identify the particular object it has to know the address of the house/object which is called control ids.
+
+control id- address of the object called "save'
+
+
+
+
 
