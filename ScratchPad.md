@@ -30,6 +30,38 @@ Since the control ids can be really big in lr_strings.h is assigned to as a stri
 
 will my script work, if i use control id's directly in the script?
 
+## Enable scripting on the SAP Application Server
+
+1. Open transaction rz11. 
+
+Specify the parameter name sapgui/user_scripting and click Display.
+
+The Display Profile Parameter Attributes window opens.
+
+2. If Profile Val is FALSE, you need to modify its value. 
+
+Click the Change value button in the toolbar. The Change Parameter 
+
+Value window opens. Enter TRUE in the ProfileVal box and click 
+
+the Save button.
+
+
+1. Open transaction rz11. 
+
+Specify the parameter name sapgui/user_scripting and click Display.
+
+The Display Profile Parameter Attributes window opens.
+
+2. If Profile Val is FALSE, you need to modify its value. 
+
+Click the Change value button in the toolbar. The Change Parameter 
+
+Value window opens. Enter TRUE in the ProfileVal box and click 
+
+the Save button.
+
+
 
 # Useful LR Shortcuts
 
