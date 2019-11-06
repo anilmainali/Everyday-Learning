@@ -118,6 +118,20 @@ if (!sapgui_is_object_available("wnd[1]"))
 sapgui_press_button(.....)
 ```
 
+# Performance Analysis -Looking into Metrics Using T- Codes 
+
+## Performance Analysis Using SAP Transaction codes.
+
+### ST02 : 
+
+Memory/Buffer Management 
+
+
+
+
+
+
+
 # Useful LR Shortcuts
 
 control + T = TRANSACTION NAME
