@@ -47,21 +47,6 @@ Value window opens. Enter TRUE in the ProfileVal box and click
 the Save button.
 
 
-1. Open transaction rz11. 
-
-Specify the parameter name sapgui/user_scripting and click Display.
-
-The Display Profile Parameter Attributes window opens.
-
-2. If Profile Val is FALSE, you need to modify its value. 
-
-Click the Change value button in the toolbar. The Change Parameter 
-
-Value window opens. Enter TRUE in the ProfileVal box and click 
-
-the Save button.
-
-
 
 # Useful LR Shortcuts
 
