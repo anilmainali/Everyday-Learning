@@ -59,6 +59,21 @@ For additional security, you can mask the password within the code. Right-click 
 
 sapgui_logon("user", lr_unmask("3ea037b758"), "800", "EN");
 
+## Save Date Information
+
+lr_save_datetime
+
+```
+lr_save_datetime("%d.%m.%Y", DATE_NOW + (2 * ONE_DAY),            
+
+  "paramDateTodayPlus2");
+sapgui_set_text("Req. deliv.date", 
+        "{paramDateTodayPlus2}",
+        "usr/ctxtRV45A-KETDAT", 
+        BEGIN_OPTIONAL, 
+            "AdditionalInfo=sapgui1025", 
+        END_OPTIONAL);
+```
 # Useful LR Shortcuts
 
 control + T = TRANSACTION NAME
