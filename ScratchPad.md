@@ -100,6 +100,20 @@ if(0==strcmp(lr_eval_string("{Status}"),"Success"))
   sapgui_status_bar_get_param("2", " Order_Number ");
   ```
 
+
+## Add Verification Functions
+
+```
+sapgui_is_object_available
+
+if (!sapgui_is_object_available("wnd[1]"))
+        sapgui_call_method("{ButtonID}", 
+            "press", 
+            LAST, 
+            AdditionalInfo=info1011");
+sapgui_press_button(.....)
+```
+
 # Useful LR Shortcuts
 
 control + T = TRANSACTION NAME
