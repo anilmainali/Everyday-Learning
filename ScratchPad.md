@@ -48,7 +48,9 @@ the Save button.
 
 3. Restart the application server to apply your changes.
 
+## Enable scripting on SAP GUI client
 
+During installation. While installing the SAP GUI client, enable the SAP GUI Scripting option.
 
 # Useful LR Shortcuts
 
