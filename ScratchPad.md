@@ -153,7 +153,21 @@ What are the bottleneck that you have seen while doing sapgui?
 
 I have monitored using ST02 and the hit ratio was less than 90% and there was no free space and definitely this was a concern and this is a bottleneck which i reported to the developer.
 
+*Example NFR:*
 
+```
+Table:
+
+Parameter      NFR        Desc
+Hit Ratio      >95%       Percentage of requests filled by SAP buffer (memory) and not disk.
+Free Space     >5%        Unused space percentage in each buffer.
+Swaps          >3         No of times an object was swapped from a buffer to make room of another object.
+```
+
+
+## ST06:
+
+Windows OS Level Monitoring - CPU Utilization
 
 
 # Useful LR Shortcuts
