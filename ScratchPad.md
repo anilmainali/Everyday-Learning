@@ -122,9 +122,17 @@ sapgui_press_button(.....)
 
 ## Performance Analysis Using SAP Transaction codes.
 
-### ST02 : 
+### ST02 : Memory/Buffer Management 
 
-Memory/Buffer Management 
+#### What is Buffer?
+
+SAP stores frequently used information in buffers in memory.
+
+Transaction ST02 monitors the usage of these buffers.
+
+The most critical factors it reports are hit ratio, free spaces and swaps.
+
+
 
 
 
