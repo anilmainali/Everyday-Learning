@@ -74,6 +74,32 @@ sapgui_set_text("Req. deliv.date",
             "AdditionalInfo=sapgui1025", 
         END_OPTIONAL);
 ```
+
+## Retrieve Information
+
+```
+sapgui_status_bar_get_type
+
+sapgui_status_bar_get_param
+  ```
+
+sapgui_status_bar_get_param function saves the order number 
+
+into a user-defined parameter. In this case, the order number is 
+
+the second index of the status bar string.
+
+```
+sapgui_press_button("Save (Ctrl+S)", 
+    "tbar[0]/btn[11]", 
+    BEGIN_OPTIONAL, 
+        "AdditionalInfo=sapgui1038", 
+    END_OPTIONAL);
+sapgui_status_bar_get_type("Status");
+if(0==strcmp(lr_eval_string("{Status}"),"Success"))
+  sapgui_status_bar_get_param("2", " Order_Number ");
+  ```
+
 # Useful LR Shortcuts
 
 control + T = TRANSACTION NAME
