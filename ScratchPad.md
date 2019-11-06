@@ -18,6 +18,17 @@ thousands of objects- if vugen has to identify the particular object it has to k
 
 control id- address of the object called "save'
 
+vugen treats every single thing in the screen as objects.everything you see is an object.
+
+
+vugen assign control id's to each of these objects.
+
+
+once it is assigned it will go and identify those objects using the control ids 
+
+
+
+
 
 
 
