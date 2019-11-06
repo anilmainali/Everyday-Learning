@@ -139,7 +139,13 @@ The hit ratio is the percentage of request that can be fulfilled by the informat
 Note: The higher the hit ratio is the better it is.
 The Hit Ratio of the single record buffer increases very slowly from system startup: therefore, a hit ratio less than 90% is a concern only if there is no free space left in the buffer.
 
+#### Free Space
 
+Free space measures how full the buffer is.
+
+#### Swap
+
+Swaps show how many times data had to be removed from the buffer to make room for other data.
 
 
 
