@@ -36,6 +36,10 @@ will my script work, if i use control id's directly in the script?
 control + T = TRANSACTION NAME
 
 
+# LoadRunner VuGen Scripting Challenges
+https://www.softwaretestinghelp.com/loadrunner/loadrunner-scripting-challenges/
+
+
 
 
 
