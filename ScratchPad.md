@@ -8,7 +8,7 @@ when you highlight the icon/button the name appears.
 
 every object has a name and vugen will identify with the name.
 
-control Ids
+## control Ids
 internally this object has control id. every object on the sap will have control id.
 
 
@@ -24,7 +24,16 @@ vugen treats every single thing in the screen as objects.everything you see is a
 vugen assign control id's to each of these objects.
 
 
-once it is assigned it will go and identify those objects using the control ids 
+Once it is assigned it will go and identify those objects using the control ids 
+
+Since the control ids can be really big in lr_strings.h is assigned to as a string variables and it is calling it as objects.and it is using the objects in script-shel112
+
+will my script work, if i use control id's directly in the script?
+
+
+# Useful LR Shortcuts
+
+control + T = TRANSACTION NAME
 
 
 
