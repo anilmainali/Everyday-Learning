@@ -201,6 +201,13 @@ Cick on record button/click on record and click record  or use shortcut key CTRL
 
 Dialogue box opens 
 
+Select all the preferences and enter info. 
+Click on Start Recording.
+
+Recording dialogue box opens and the application where you perform the actions.
+
+
+
 
 
 
