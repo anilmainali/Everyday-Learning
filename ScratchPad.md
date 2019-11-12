@@ -191,6 +191,15 @@ Provide a script name , Location , Solution Name, Solution Target
 
 Click on Create.
 
+New Page Opens
+
+Add as many actions you need for the scenario and Edit the appropriate name for the actions or you can record in 1 action and later on you can create multiple actions and copy and paste/ move actions around.
+
+There is no hard and fast rule as to whether you have to put all the login in init and logoff in end. It's up to you.
+
+Cick on record button/click on record and click record  or use shortcut key CTRL + R
+
+Dialogue box opens 
 
 
 
