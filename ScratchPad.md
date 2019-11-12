@@ -202,10 +202,18 @@ Cick on record button/click on record and click record  or use shortcut key CTRL
 Dialogue box opens 
 
 Select all the preferences and enter info. 
+
 Click on Start Recording.
 
 Recording dialogue box opens and the application where you perform the actions.
 
+Start performing the actions by commenting each action/ by giving start end transaction name and  by putting into right actions.
+
+After you are done stop the recording.
+
+Design studio dialog opens.
+
+Close the Design studio and you will see the actual recording/codes.
 
 
 
