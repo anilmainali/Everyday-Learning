@@ -183,37 +183,37 @@ https://www.softwaretestinghelp.com/loadrunner/loadrunner-scripting-challenges/
 
 ## Steps To Record In VuGen:
 
-Open the VuGen.
+- Open the VuGen.
 
-Select the Protocol.
+- Select the Protocol.
 
-Provide a script name , Location , Solution Name, Solution Target 
+- Provide a script name , Location , Solution Name, Solution Target 
 
-Click on Create.
+- Click on Create.
 
-New Page Opens
+- New Page Opens
 
-Add as many actions you need for the scenario and Edit the appropriate name for the actions or you can record in 1 action and later on you can create multiple actions and copy and paste/ move actions around.
+- Add as many actions you need for the scenario and Edit the appropriate name for the actions or you can record in 1 action and later on you can create multiple actions and copy and paste/ move actions around.
 
-There is no hard and fast rule as to whether you have to put all the login in init and logoff in end. It's up to you.
+- There is no hard and fast rule as to whether you have to put all the login in init and logoff in end. It's up to you.
 
-Cick on record button/click on record and click record  or use shortcut key CTRL + R
+- Cick on record button/click on record and click record  or use shortcut key CTRL + R
 
-Dialogue box opens 
+- Dialogue box opens 
 
-Select all the preferences and enter info. 
+- Select all the preferences and enter info. 
 
-Click on Start Recording.
+- Click on Start Recording.
 
-Recording dialogue box opens and the application where you perform the actions.
+- Recording dialogue box opens and the application where you perform the actions.
 
-Start performing the actions by commenting each action/ by giving start end transaction name and  by putting into right actions.
+- Start performing the actions by commenting each action/ by giving start end transaction name and  by putting into right actions.
 
-After you are done stop the recording.
+- After you are done stop the recording.
 
-Design studio dialog opens.
+- Design studio dialog opens.
 
-Close the Design studio and you will see the actual recording/codes.
+- Close the Design studio and you will see the actual recording/codes.
 
 
 
