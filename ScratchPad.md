@@ -221,7 +221,152 @@ https://knowhowz.weebly.com/performance-engineering/lr-function-lr_paramarr_rand
 
 
 
+# Drodown Correlation
 
+web_reg_save_param_ex using ORD = ALL
+
+In the web reg save param there are various arguments.
+As a Performance Tester for the web reg save param ex fiction you have given  LB and RB with Ordinal = ALL to VuGen.
+
+web reg save param ex will go the response grab the dynamic value in-between LB and RB and will put into a LR Parameter. Not only that it will also grab the similar dynamic value which is in-between LB and RB.dynamic value 2 and put it into LR Parameter.
+
+now LR Parameter will store lot of values.
+
+now the LR Parameter is not storing 1 value it it storing multiple values.
+
+This is why we now call this LR Parameter as Array.only one parameter storing multiple values.
+
+agenda:
+========
+1. Select one random Departure city from the drop down list.
+Using ordinal= ALL , pull out all the departure cities     >>> array will be created.
+2. From this array list, pick one value randomly and use this as a Departure City.
+================================================= 
+
+
+First you need to correlate the value "Depart."
+
+```
+********************************************** 
+web_reg_save_param_ex("ParamName=Dept_City",
+"LB=<option value=\"",
+"RB=\">",
+"Ordinal= ALL",
+LAST);
+*********************************************** 
+```
+First agenda is done…
+
+now parameter value has to be randomly selected from this array. use this function for this.
+
+
+lr_paramarr_ramdom("Dept_City");
+
+i will be able to pick up a value randomly from this parameter called  Dept_City.
+
+*****************************************
+what is the input for this ? Dept_City
+
+what is the output for this? String is the output for this.
+
+how do you know this? 
+
+go to functions in roadrunner.select hit f1
+
+char *lr_paramarr_random(const char * paramArrayName);
+
+What is the input for this? paramArrayName
+
+what is the output for this? string char *
+
+how the string should be declared ? char * should be declared as a pointer.
+
+***************************************** 
+
+now lr_paramarr_ramdom("Dept_City"); becomes
+
+Random_Dept_City=lr_paramarr_ramdom("Dept_City");
+
+now inside the global.h global variable
+
+declare
+
+``` 
+char *Random_Dept_City;
+```
+
+now what happens from this array list one value will be picked up randomly from Dept_City which is holding 18 values and will be stored in Random_Dept_City.
+
+lets see what value it has picked up? for this either you have to put lr output message or see in watch 
+
+it has picked up san francisco. try more iterations.
+
+now this Random_Dept_City variable will be holding some values.
+
+
+no this randomly selected value needs to be passed in here(web request where it is depart)
+
+now instead of denver put {"Random_Dept_City"} with curly braces. 
+
+i am doing this because Random_Dept_City is holding a random value.
+
+now tell me what is Random_Dept_City ? string , integers or float? 
+
+it is a string. 
+
+can i put string as an LR String as an input?
+
+no. this web_submit data LR Functions only accepts LR Parameter. no strings, no inters, no float
+
+now there is a need to convert this string Random_Dept_City into LR Parameter.
+
+for this we can use : lr_save_string
+
+lr_save_string("Random_Dept_City","pRandom_Dept_City");
+
+conversion from string to LR Parameter is done.
+
+now pass this value pRandom_Dept_City to web submit data with curly braces.{pRandom_Dept_City}.
+
+instead of lr_save_string you can also use 
+
+lr_param_sprintf("pRandom_Dept_City ", %s , "Random_Dept_City ");
+
+now we need to pick up random city from arrival city also . since both have same values or are same you do not have to correlation again. or need to build web reg save param.
+
+from the same Dept_City array - web reg save param pick one random city.
+
+now change the parameter name:City
+
+```
+web_reg_save_param_ex("ParamName=City",
+"LB=<option value=\"",
+"RB=\">",
+"Ordinal= ALL",
+LAST);
+```
+declare
+
+char *Random_Arrival_City;
+
+Random_Arrival_City=lr_paramarr_ramdom("Arrival_City");
+
+lr_save_string("pRandom_Arrival_City","Random_Arrival_City");
+
+now pass this value pRandom_Arrival_City to web submit data with curly braces.{pRandom_Arrival_City}.
+
+now it will pick random cities for both departure and arrival city.
+
+# Example of extended RB to new line
+```
+web_reg_save_param_ex(
+
+"ParamName=User_Session",
+"LB=<option value=\"",
+"RB=\">\n table border",
+"Ordinal= ALL",
+LAST);
+```
 
 
 
