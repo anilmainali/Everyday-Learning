@@ -179,6 +179,11 @@ control + T = TRANSACTION NAME
 https://www.softwaretestinghelp.com/loadrunner/loadrunner-scripting-challenges/
 
 
+# LoadRunner VuGen
+
+## Steps To Record In VuGen:
+
+
 
 
 
