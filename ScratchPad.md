@@ -183,6 +183,13 @@ https://www.softwaretestinghelp.com/loadrunner/loadrunner-scripting-challenges/
 
 ## Steps To Record In VuGen:
 
+Open the VuGen.
+
+Select the Protocol.
+
+Provide a script name , Location , Solution Name, Solution Target 
+
+Click on Create.
 
 
 
