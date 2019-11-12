@@ -215,6 +215,10 @@ https://www.softwaretestinghelp.com/loadrunner/loadrunner-scripting-challenges/
 
 - Close the Design studio and you will see the actual recording/codes.
 
+# Resourses of functions
+
+https://knowhowz.weebly.com/performance-engineering/lr-function-lr_paramarr_random-parameter_array_name
+
 
 
 
