@@ -368,5 +368,14 @@ web_reg_save_param_ex(
 LAST);
 ```
 
+# Understanding of What LG means in LoadRunner
+
+1) LG is software which si avaiable with the loadrunner package. You have to identify a machine or server to install this LG software. Once the LG software is installed on a certain machine, we can call it as LG machine
+
+2) We can hav as many LG machines as possible depending on your need. Maximum i have seen is 30 LG's
+
+3) I have seen projects where performance testers created their own LG's and in bigger organizations, HP team (Now Microfocus team) usually do the installations. If you are given responsibility to create these LG's, you can take help of HP team. They are usually good with customer service
+
+4) Once LG is created, you need to connect to these LG's from the controller
 
 
