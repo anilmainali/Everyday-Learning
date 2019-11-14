@@ -379,3 +379,11 @@ LAST);
 4) Once LG is created, you need to connect to these LG's from the controller
 
 
+# Thread vs Process
+
+Run Vuser As A Thread
+
+
+
+
+
