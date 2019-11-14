@@ -398,5 +398,9 @@ Run Vuser As Process
 
 As each vsuer has its own process and privately allocated resources, it's not recommended to use this setting when huge number of vusers are are required to run on the injector boxes.
 
+# LoadRunner Interview Questions
+
+https://www.softwaretestinghelp.com/loadrunner-interview-questions-and-best-answers/
+
 
 
