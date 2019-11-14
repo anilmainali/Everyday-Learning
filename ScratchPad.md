@@ -385,7 +385,18 @@ Run Vuser As A Thread
 
 Running Vuser as a thread will be more effective on keeping OS resources consumption on the injector's boxes to considerably low as this setting does not  have very heavy footprints.
 
+Run Vuser As Process
 
+Running user as process will be very heavy on OS resources consumption on the injector boxes.
+
+Run Vuser As A Thread
+
+As multiple threads running within a single process share the available resources among themselves, its recommended to use this setting when huge number of users are required to run on the injector boxes.
+
+
+Run Vuser As Process
+
+As each vsuer has its own process and privately allocated resources, it's not recommended to use this setting when huge number of vusers are are required to run on the injector boxes.
 
 
 
