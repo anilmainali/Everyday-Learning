@@ -140,7 +140,9 @@ Refer this tutorial for more details.
 Ans => Test cases/Uses cases for Performance test are almost same as any manual/functional testing test cases where each and every step performed by the user is written. The only difference is that all manual test cases can’t be Performance testing use cases as there are few criteria for the selection as:
 
 I. The user activity should be related to the critical and most important functionality of the application.
+
 II. The user activity should be having a good amount of database activity such as search, delete or insert.
+
 III. The user activity should be having good user volume. The functionality having less user activity is generally omitted from Performance testing point of view. e.g admin account activity.
 
 Any of the manual test cases that fulfil the above criteria can be used as performance testing use case/test case. If manual test cases are not written step by step, Performance team should create dedicated documents for them.
