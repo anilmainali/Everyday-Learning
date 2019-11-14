@@ -383,6 +383,8 @@ LAST);
 
 Run Vuser As A Thread
 
+Running Vuser as a thread will be more effective on keeping OS resources consumption on the injector's boxes to considerably low as this setting does not  have very heavy footprints.
+
 
 
 
