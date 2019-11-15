@@ -407,6 +407,13 @@ https://www.softwaretestinghelp.com/loadrunner-interview-questions-and-best-answ
 
 https://www.therealreal.com/
 
+# practice REST web services test automation
+
+http://52.202.21.1:8080/swagger-ui.html
+
+he web service is created around a well-known business domain for you, namely a bug tracking service.
+
+
 
 
 
