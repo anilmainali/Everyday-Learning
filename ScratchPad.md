@@ -418,6 +418,15 @@ he web service is created around a well-known business domain for you, namely a 
 
 https://www.dynatrace.com/news/blog/why-averages-suck-and-percentiles-are-great/
 
+# An Introduction to the Bell Curve
+
+https://www.thoughtco.com/introduction-to-the-bell-curve-3126337
+
+
+# Use of Bell Curve in Performance Appraisals – Good or Bad?
+
+https://empxtrack.com/blog/bell-curve-for-performance-appraisal/
+
 
 
 
