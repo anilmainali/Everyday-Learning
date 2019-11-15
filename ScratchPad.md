@@ -422,6 +422,10 @@ https://www.dynatrace.com/news/blog/why-averages-suck-and-percentiles-are-great/
 
 https://www.thoughtco.com/introduction-to-the-bell-curve-3126337
 
+# The Bell Curve: Theory & Themes
+
+https://study.com/academy/lesson/the-bell-curve-theory-themes-quiz.html
+
 
 # Use of Bell Curve in Performance Appraisals – Good or Bad?
 
