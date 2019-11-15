@@ -403,4 +403,11 @@ As each vsuer has its own process and privately allocated resources, it's not re
 https://www.softwaretestinghelp.com/loadrunner-interview-questions-and-best-answers/
 
 
+# Research about this company for reselling my stuff
+
+https://www.therealreal.com/
+
+
+
+
 
