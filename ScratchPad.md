@@ -414,6 +414,10 @@ http://52.202.21.1:8080/swagger-ui.html
 he web service is created around a well-known business domain for you, namely a bug tracking service.
 
 
+# Why Averages Suck and Percentiles are Great
+
+https://www.dynatrace.com/news/blog/why-averages-suck-and-percentiles-are-great/
+
 
 
 
