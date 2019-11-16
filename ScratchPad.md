@@ -441,5 +441,15 @@ https://www.linkedin.com/pulse/performance-roles-client-facing-projects-samson-j
 
 https://www.linkedin.com/pulse/what-takes-build-career-performance-engineering-samson-jaykumar/
 
+# Fundamentals of Performance Testing
+
+https://www.linkedin.com/pulse/fundamentals-performance-testing-tomi-tiihonen/
+
+# System Performance vs Page Speed
+
+https://www.linkedin.com/pulse/system-performance-vs-page-speed-tomi-tiihonen/
+
+
+
 
 
