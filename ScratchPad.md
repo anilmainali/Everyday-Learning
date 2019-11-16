@@ -432,6 +432,14 @@ https://study.com/academy/lesson/the-bell-curve-theory-themes-quiz.html
 https://empxtrack.com/blog/bell-curve-for-performance-appraisal/
 
 
+# Performance roles in client facing projects
+
+https://www.linkedin.com/pulse/performance-roles-client-facing-projects-samson-jaykumar/?trackingId=pEptXcWaJRqcHTOa2B0g8g%3D%3D
+
+
+# What it takes to build a Career in Performance Engineering?
+
+https://www.linkedin.com/pulse/what-takes-build-career-performance-engineering-samson-jaykumar/
 
 
 
