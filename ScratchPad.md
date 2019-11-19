@@ -450,6 +450,12 @@ https://www.linkedin.com/pulse/fundamentals-performance-testing-tomi-tiihonen/
 https://www.linkedin.com/pulse/system-performance-vs-page-speed-tomi-tiihonen/
 
 
+# Need to check out these sites
+
+https://dealsrookie.com/
+
+https://www.nextgenerationautomation.com/
+
 
 
 
