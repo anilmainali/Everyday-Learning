@@ -457,5 +457,15 @@ https://dealsrookie.com/
 https://www.nextgenerationautomation.com/
 
 
+# Text Editors
+
+## Brackets
+
+http://brackets.io/
+
+A modern, open source text editor that understands web design.
+
+
+
 
 
