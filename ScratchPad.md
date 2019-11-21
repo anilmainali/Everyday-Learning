@@ -456,6 +456,12 @@ https://dealsrookie.com/
 
 https://www.nextgenerationautomation.com/
 
+# Scrum Fundamentals Certified
+
+https://www.scrumstudy.com/certification/scrum-fundamentals-certified
+
+
+
 
 # Text Editors
 
