@@ -471,6 +471,10 @@ http://brackets.io/
 
 A modern, open source text editor that understands web design.
 
+# Popular Blogs in Perfromance
+
+https://stevesouders.com/
+
 
 
 
