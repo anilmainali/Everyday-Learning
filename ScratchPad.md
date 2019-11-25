@@ -498,5 +498,8 @@ When your server is getting more requests than it can handle, it's a happy day f
 
 The server cluster has to allocate requests so that all the machines are doing a roughly equal share of the work. Otherwise, some users will get great performance while others will see a very slow server or even find their sessions dropped. The hardware and software that manages the allocation is a load balancer.
 
+Many different approaches to load balancing are possible. What load balancers are you using? Which ones are better depends on the software being balanced, the hardware which runs them, and the communication among the servers. 
+
+
 
 
