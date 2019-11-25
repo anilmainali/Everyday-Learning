@@ -492,5 +492,11 @@ In a nutshell, round robin network load balancing rotates connection requests am
 
 The load balancer continues passing requests to servers based on this order. This ensures that the server load is distributed evenly to handle high traffic.
 
+# Which Load Balancing Method Are You Using?
+
+When your server is getting more requests than it can handle, it's a happy day for the marketing department. Lots of users are coming in and using the system. For the IT department, it means making some serious changes. It's time to add one or more servers, but they all have to look like one server to the users.
+
+The server cluster has to allocate requests so that all the machines are doing a roughly equal share of the work. Otherwise, some users will get great performance while others will see a very slow server or even find their sessions dropped. The hardware and software that manages the allocation is a load balancer.
+
 
 
