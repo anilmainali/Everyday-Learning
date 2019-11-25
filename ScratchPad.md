@@ -500,6 +500,38 @@ The server cluster has to allocate requests so that all the machines are doing a
 
 Many different approaches to load balancing are possible. What load balancers are you using? Which ones are better depends on the software being balanced, the hardware which runs them, and the communication among the servers. 
 
+## Sticky or non-sticky?
+The most basic distinction is between sticky and non-sticky load balancers. A sticky one keeps a user's session on the server where it started. A non-sticky balancer can put each request in a session on a different server.
+
+The advantage of sticky sessions is that it isn't necessary to move session-related data from one server to another. This can produce more efficient performance. The disadvantage is that it's harder to keep the servers in balance. If sessions requiring a lot of work all accumulate on the same computer, they're going to stay there.
+
+Whether stickiness wins or loses depends on the system architecture and the application that's being balanced. Here are some factors that come into play.
+
+Factors favoring sticky sessions:
+
+Each session uses a lot of server-side data that persists from one request to another.
+Sessions are usually short and don't put a large burden on system resources.
+Moving data between servers has a high cost.
+Factors favoring non-sticky sessions:
+
+Little or no server-side data persists between requests.
+Some sessions put a significantly larger burden on the system than others.
+A shared drive holds session data where each server can read and write it. If it's fast enough, non-stickiness imposes no cost.
 
 
+Allocation methods
+The next question is which server gets each new session (if sticky) or HTTP request (if non-sticky). The approaches range from simple to complex.
+
+## Round Robin
+The simplest is the round robin approach. Each new request goes to the next server in turn. This works best when all the servers have equal capacity. Even so, some servers could get unlucky and get all the more burdensome requests. This is less likely to be a problem with non-sticky sessions, since each server gets an equal number of short-lived requests rather than potentially getting long-lasting sessions.
+
+If some of the servers are more powerful than others, a simple round robin doesn't work so well. The underpowered machines have to do just as much work as the big ones. A more sophisticated approach is necessary.
+
+## Ratio-based Round Robin
+The weighted or ratio-based round robin can deal with unequal servers. With this approach, the more powerful servers get additional requests. For instance, if Server A has twice the power of Server B and three times the power of Server C, then on each round A would get six requests, B would get three, and C would get two.
+
+## Least Connections
+A more dynamic approach is the least connections approach. In this case, the load balancer has to determine how many active connections each server currently has. It will assign a new request to the server with the fewest connections. If the servers have unequal capacity, then it will divide the number of connections by the server's relative power to decide which one has the lightest load. This provides the best ongoing balance at the cost of extra complexity.
+
+The load balancer is a critical component of a service, since if it fails, all the servers it balances go off line. To guarantee availability, a failover load balancer should be available to take over when needed.
 
