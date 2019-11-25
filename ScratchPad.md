@@ -535,3 +535,6 @@ A more dynamic approach is the least connections approach. In this case, the loa
 
 The load balancer is a critical component of a service, since if it fails, all the servers it balances go off line. To guarantee availability, a failover load balancer should be available to take over when needed.
 
+# Check Out: loadrunner-script-structure
+
+https://qainsights.com/loadrunner-script-structure/
