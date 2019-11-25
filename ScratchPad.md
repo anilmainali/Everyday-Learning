@@ -476,6 +476,10 @@ A modern, open source text editor that understands web design.
 https://stevesouders.com/
 
 
+# Load Balancer
 
+## Round Robin Load Balancing Definition
+
+Round robin load balancing is a simple way to distribute client requests across a group of servers. A client request is forwarded to each server in turn. The algorithm instructs the load balancer to go back to the top of the list and repeats again.
 
 
