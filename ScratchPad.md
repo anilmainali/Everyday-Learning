@@ -538,3 +538,16 @@ The load balancer is a critical component of a service, since if it fails, all t
 # Check Out: loadrunner-script-structure
 
 https://qainsights.com/loadrunner-script-structure/
+
+
+
+www.coursera.org
+www.udemy.com
+www.edx.org
+www.udacity.com
+www.edraak.org
+www.codecademy.com
+www.linkedin.com/learning
+www.learndigital.withgoogle
+
+
