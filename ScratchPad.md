@@ -542,12 +542,17 @@ https://qainsights.com/loadrunner-script-structure/
 
 
 www.coursera.org
+
 www.udemy.com
+
 www.edx.org
+
 www.udacity.com
-www.edraak.org
+
 www.codecademy.com
+
 www.linkedin.com/learning
+
 www.learndigital.withgoogle
 
 
