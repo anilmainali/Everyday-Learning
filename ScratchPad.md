@@ -563,5 +563,13 @@ https://learndigital.withgoogle.com/digitalunlocked/courses
 https://www.bpsconsulting.com/
 
 
+# Certification Prep and Continuing Education
+https://learning.linkedin.com/certification-and-continuing-education-programs
+
+
+# How to Promote Your Continuing Education Units (CEUs) on LinkedIn
+https://www.findcourses.com/prof-dev/career-development/promote-ceu-credits-linkedin-9394
+
+
 
 
