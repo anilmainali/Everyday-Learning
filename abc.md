@@ -388,5 +388,15 @@ Learn Markdown:
 https://gitbookio.gitbooks.io/markdown/content/index.html
 
 
+##Resources to learn GitHub
+
+http://fossforce.com/2016/04/learn-git-github-videos/ 
+- Found this from twitter from Wilsonmar's retwitted post. Good explanation. I think you should check this out!
+
+### Mastering Markdown
+https://guides.github.com/features/mastering-markdown/
+
+### Webcast • Writing Tools on the GitHub Platform
+https://www.youtube.com/watch?v=p8yKoPaDqiA
 
 
