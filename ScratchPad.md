@@ -571,5 +571,8 @@ https://learning.linkedin.com/certification-and-continuing-education-programs
 https://www.findcourses.com/prof-dev/career-development/promote-ceu-credits-linkedin-9394
 
 
+# 101 Google Cloud
+https://cloudonair.withgoogle.com/cloud101?utm_source=linkedin&utm_medium=sponsoredupdates&utm_content=fundamentals&utm_campaign=FY19-Q4-NORTHAM-onair-displaypaidsocial-er-GC_None_OnAir_Northam&dclid=CIje5qjJsOYCFUa6TwodOtsKlA
+
 
 
