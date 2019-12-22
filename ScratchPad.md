@@ -575,4 +575,9 @@ https://www.findcourses.com/prof-dev/career-development/promote-ceu-credits-link
 https://cloudonair.withgoogle.com/cloud101?utm_source=linkedin&utm_medium=sponsoredupdates&utm_content=fundamentals&utm_campaign=FY19-Q4-NORTHAM-onair-displaypaidsocial-er-GC_None_OnAir_Northam&dclid=CIje5qjJsOYCFUa6TwodOtsKlA
 
 
+# Blogs Idea
+https://www.adamenfroy.com/
+
+
+
 
