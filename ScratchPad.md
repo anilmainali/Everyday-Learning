@@ -587,6 +587,10 @@ https://opendllfiles.com/open-apk-file/
 
 [How to upgrade Windows 7 to Windows 10 in 2019 for FREE!](https://www.youtube.com/watch?v=pc5zYUECk1Q)
 
+# WORKING December 2019: How you can still upgrade to Windows 10 for free
+
+[WORKING December 2019: How you can still upgrade to Windows 10 for free](https://www.youtube.com/watch?v=g8Ww4ZrxWPM)
+
 
 
 
