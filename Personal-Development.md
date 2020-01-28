@@ -1,3 +1,14 @@
+
+## The Six Morning Habits of High Performers
+
+https://www.youtube.com/watch?v=yOwO56QfFr4
+
+- 7 minutes workout
+- 5 minute journal
+- 3 things I am grateful for
+- 3 thing i want to focus on today… important goals.
+
+
 ## Productivity
 
 ### 30 Day Challenge to a More Productive and Much Happier You! 
