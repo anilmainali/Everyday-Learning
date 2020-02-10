@@ -1,5 +1,9 @@
 # Performance Testing
 
+## Performant front-end architecture
+
+https://www.debugbear.com/blog/performant-front-end-architecture
+
 
 https://www.amazonfutureengineer.com/
 
