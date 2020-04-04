@@ -577,3 +577,66 @@ https://www.youtube.com/user/abcd13619/search?query=subnet
 # Network Security 101: Full Workshop
 
 https://www.youtube.com/watch?v=E03gh1huvW4
+
+
+
+How to start performance testing project
+1. How to start Performance Testing project? A practical guide to performance testers Author: NaveenKumar Namachivayam Writer at www.QAInsights.com
+2. ● Send business proposal to the clients
+3. ● Once your client agreed, start collecting Non-Functional Requirements
+4. ● Non-Functional requirements such as Response Time, Throughput, Transactions per sec, CPU usage, Memory, Disk, Network etc.
+5. ● Industry standards like Response Time < 5 seconds, CPU and Memory usage < 60%
+6. ● Identify Critical Scenarios
+7. ● If your client is not able to provide critical scenarios and workload models, we can derive it from the server logs.
+8. ● Tools like 123loganalyzer, Deep Log Analyzer, AWstats, Analog etc.
+9. ● If no server logs available, analyze the business applications and identify the critical scenarios.
+10. ● E.g. Banking application.Critical Scenarios will be1. Login2. Check Balance3. Apply for Loans4. Pay Bills...etc...
+11. ● Identify the performance testing tool
+12. ● Record your critical scenarios
+13. ● Enhance your scripts such as1. Inserting Transactions2. Correlations3. Think Time4. Run time settings5. Browser settings6. Cache settings... etc...then perform a unit test to baseline thescript
+14. ● Create Scenarios to execute. Define following:1. Ramp-up period2. Steady State3. Ramp-down period4. Loops5. Mix of transactions6. IP Spoofing...etc...
+15. ● Execute the scenario at least three cycles.1. Baseline Test Perform the test with 15-20% of target load2. Load Test Perform with actual load for three cycles. Steady State duration: min. 1 hr3. Stress Test Perform load test and then slowly ramp-up theload step-by-step. Disable Think time and Cachesettings Steady State duration: min. 2-3 hr4. Endurance Test Perform load test for 10-14 hours to identifymemory leaks
+16. ● Collect metrics such as1. Response Time2. Throughput3. Transactions per second4. CPU Usage5. Memory6. Disk utilization● Prepare Report● Baseline the report● Compare with Benchmarks and previous results
+17. Thank you! Happy Performance Testing!Visit www.QAInsights.com | www.Testifications.com | www.QAJobOpenings.com
+
+====================================================================== 
+APIs for Beginners - How to use an API (Full Course)
+https://www.youtube.com/watch?v=GZvSYJDk-us
+
+========================== 
+
+phython
+
+https://www.youtube.com/watch?time_continue=3&v=_uQrJ0TkZlc&feature=emb_logo
+
+
+perftest
+https://wilsonmar.github.io/perftest/
+
+https://en.wikipedia.org/wiki/Software_performance_testing
+
+
+http://www.mercury-consulting-ltd.com/wp/Performance_Testing_Traps.html
+
+Tasks to undertake
+Tasks to perform such a test would include:
+
+Decide whether to use internal or external resources to perform the tests, depending on inhouse expertise (or lack of it)
+Gather or elicit performance requirements (specifications) from users and/or business analysts
+Develop a high-level plan (or project charter), including requirements, resources, timelines and milestones
+Develop a detailed performance test plan (including detailed scenarios and test cases, workloads, environment info, etc.)
+Choose test tool(s)
+Specify test data needed and charter effort (often overlooked, but vital to carrying out a valid performance test)
+Develop proof-of-concept scripts for each application/component under test, using chosen test tools and strategies
+Develop detailed performance test project plan, including all dependencies and associated timelines
+Install and configure injectors/controller
+Configure the test environment (ideally identical hardware to the production platform), router configuration, quiet network (we don't want results upset by other users), deployment of server instrumentation, database test sets developed, etc.
+Dry run the tests - before actually executing the load test with predefined users, a dry run is carried out in order to check the correctness of the script
+Execute tests – probably repeatedly (iteratively) in order to see whether any unaccounted-for factor might affect the results
+Analyze the results - either pass/fail, or investigation of critical path and recommendation of corrective action
+
+https://techbeacon.com/app-dev-testing/how-define-right-workload-model-your-performance-tests
+
+https://qainsights.com/how-to-design-workload-model-for-load-testing/
+
+===================
