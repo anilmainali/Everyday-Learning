@@ -21,3 +21,7 @@
 ![growwithgoogle](https://user-images.githubusercontent.com/10678180/94586209-94106200-0246-11eb-91b4-9169ba1a38ca.png)
 
 ![certificate](https://user-images.githubusercontent.com/10678180/94586060-69260e00-0246-11eb-8034-22280b5d594d.jpg)
+
+![perftour2020](https://user-images.githubusercontent.com/10678180/94710192-2af32200-030c-11eb-924f-3ce0728aa9a2.jpeg)
+
+![profile1](https://user-images.githubusercontent.com/10678180/94710233-38a8a780-030c-11eb-9869-e761eaff083f.jpg)
